@@ -25,7 +25,7 @@ Ich habe die **Robot Dreams Cyber Security Fundamentals**-Akademie mit **97 % (1
 
 **Ziel:** Junior SOC Analyst Position im DACH-Raum (Remote-Option), mit langfristigem Ausbau durch CompTIA Security+ und ISO 27001 Zertifizierungen.
 
-📄 **Gesamtes Portfolio als Präsentation:** [SOC Analyst Portfolio (PDF)](portfolio/presentations/Portfolio_SOC_Analyst_Viktor_Vas_DE.pdf)
+📄 **Gesamtes Portfolio als Präsentation:** [SOC Analyst Portfolio (PDF)](https://github.com/vasviktor-cyber/cybersecurity-portfolio/blob/main/portfolio/presentations/Portfolio_SOC_Analyst_Viktor_Vas_DE.pdf)
 
 ---
 
@@ -63,7 +63,7 @@ Ich habe die **Robot Dreams Cyber Security Fundamentals**-Akademie mit **97 % (1
 
 <div align="center">
 
-<img src="portfolio/infographics/Infographic_Defense_in_Depth_Architecture_DE.png" alt="Defense-in-Depth Architektur Infografik" width="600"/>
+<img src="https://raw.githubusercontent.com/vasviktor-cyber/cybersecurity-portfolio/main/portfolio/infographics/Infographic_Defense_in_Depth_Architecture_DE.png" alt="Defense-in-Depth Architektur Infografik" width="600"/>
 
 *Vollständige Visualisierung meiner Sicherheitsarchitektur: STRIDE-Analyse, Trust Boundaries, Netzwerk-Mitigationsmatrix und IR-Lebenszyklus.*
 
@@ -85,7 +85,7 @@ Ich habe die **Robot Dreams Cyber Security Fundamentals**-Akademie mit **97 % (1
   - Dokumentierte Auswirkungen: Session Hijacking, Kontoübernahme (Ubisoft, Microsoft, Instagram), Krypto-Mining
 - **Ergebnis:** Entwicklung und Umsetzung eines **„Scorched Earth"-Remediationsprotokolls** — Netzwerkisolation, Clean Install, Router-Factory-Reset, Identity Lockdown aller Konten und Hardware-Austausch (Telefon + SIM-Karte).
 
-📄 **Dokumentation:** [Incident Report (PDF)](portfolio/projects/Report_Rhadamanthys_Infostealer_DE.pdf) · [Analyse-Präsentation (PDF)](portfolio/presentations/Presentation_Rhadamanthys_Analysis_DE.pdf)
+📄 **Dokumentation:** [Incident Report (PDF)](https://github.com/vasviktor-cyber/cybersecurity-portfolio/blob/main/portfolio/projects/Report_Rhadamanthys_Infostealer_DE.pdf) · [Analyse-Präsentation (PDF)](https://github.com/vasviktor-cyber/cybersecurity-portfolio/blob/main/portfolio/presentations/Presentation_Rhadamanthys_Analysis_DE.pdf)
 
 ---
 
@@ -102,7 +102,7 @@ Ich habe die **Robot Dreams Cyber Security Fundamentals**-Akademie mit **97 % (1
   - Konzeption eines **verpflichtenden jährlichen Cybersicherheits-E-Learnings** mit 30-Fragen-Test (80 %-Bestehensgrenze) und zertifikatsgebundenem Systemzugang
 - **Ergebnis:** Vollständiges Phishing-Angriffsszenario mit schrittweiser Eindämmung, Kommunikationsplan und Integration in das Schulungsprogramm.
 
-📄 **Dokumentation:** [IR-Plan (PDF)](portfolio/projects/Project_Colle_Incident_Response_Plan_DE.pdf) · [Security Blueprint Präsentation (PDF)](portfolio/presentations/Presentation_Colle_Security_Blueprint_DE.pdf)
+📄 **Dokumentation:** [IR-Plan (PDF)](https://github.com/vasviktor-cyber/cybersecurity-portfolio/blob/main/portfolio/projects/Project_Colle_Incident_Response_Plan_DE.pdf) · [Security Blueprint Präsentation (PDF)](https://github.com/vasviktor-cyber/cybersecurity-portfolio/blob/main/portfolio/presentations/Presentation_Colle_Security_Blueprint_DE.pdf)
 
 ---
 
@@ -118,7 +118,7 @@ Ich habe die **Robot Dreams Cyber Security Fundamentals**-Akademie mit **97 % (1
   - Erstellung einer **Mitigationsmatrix** pro Asset-Typ (WAF, Rate Limiting, 2FA, Least Privilege, Eingabevalidierung)
 - **Ergebnis:** Umfassende Defense-in-Depth-Strategie. Akademische Validierung: **30/30 Punkte**.
 
-📄 **Dokumentation:** [Threat Model Projekt (PDF)](portfolio/projects/Project_eBay_Threat_Modeling_DE.pdf) · [Microsoft Threat Modeling Tool — Screenshot](portfolio/screenshots/Ebay_Threat_Model_Tool_Screenshot.jpg)
+📄 **Dokumentation:** [Threat Model Projekt (PDF)](https://github.com/vasviktor-cyber/cybersecurity-portfolio/blob/main/portfolio/projects/Project_eBay_Threat_Modeling_DE.pdf) · [Microsoft Threat Modeling Tool — Screenshot](https://github.com/vasviktor-cyber/cybersecurity-portfolio/blob/main/portfolio/screenshots/Ebay_Threat_Model_Tool_Screenshot.jpg)
 
 ---
 
@@ -133,7 +133,7 @@ Ich habe die **Robot Dreams Cyber Security Fundamentals**-Akademie mit **97 % (1
   - Durchführung eines **TFTP-Firmware-Flash** über die Bootloader-Konsole zur Wiederherstellung der Original-Firmware
 - **Ergebnis:** Vollständig dokumentierte Schritt-für-Schritt-Anleitung. Router erfolgreich wiederhergestellt. Demonstriert Hardware-nahe Troubleshooting-Fähigkeiten, direkt anwendbar auf IoT/OT-Sicherheit und forensische Analyse.
 
-📄 **Dokumentation:** [Hardware-Recovery Präsentation (PDF)](portfolio/presentations/Presentation_ASUS_Router_SPI_Recovery_DE.pdf)
+📄 **Dokumentation:** [Hardware-Recovery Präsentation (PDF)](https://github.com/vasviktor-cyber/cybersecurity-portfolio/blob/main/portfolio/presentations/Presentation_ASUS_Router_SPI_Recovery_DE.pdf)
 
 ---
 
@@ -150,7 +150,7 @@ Ich habe die **Robot Dreams Cyber Security Fundamentals**-Akademie mit **97 % (1
   - Diagnose und Behebung von **MSI Center vs. BIOS Prioritätskonflikten** zugunsten einer stabilen Hardware-Steuerung
 - **Ergebnis:** Perfekt funktionierende, thermisch effiziente und kabeloptimierte Workstation, bereit für Netzwerkverkehrsanalyse, VM-Ausführung und stabilen Dauerbetrieb.
 
-📄 **Dokumentation:** [Homelab Projekt (PDF)](portfolio/projects/Project_Blue_Team_Homelab_Build_DE.pdf) · [Architektur-Bericht (PDF)](portfolio/projects/Report_Homelab_Architecture_DE.pdf) · [Engineering Präsentation (PDF)](portfolio/presentations/Presentation_Homelab_Engineering_DE.pdf)
+📄 **Dokumentation:** [Homelab Projekt (PDF)](https://github.com/vasviktor-cyber/cybersecurity-portfolio/blob/main/portfolio/projects/Project_Blue_Team_Homelab_Build_DE.pdf) · [Architektur-Bericht (PDF)](https://github.com/vasviktor-cyber/cybersecurity-portfolio/blob/main/portfolio/projects/Report_Homelab_Architecture_DE.pdf) · [Engineering Präsentation (PDF)](https://github.com/vasviktor-cyber/cybersecurity-portfolio/blob/main/portfolio/presentations/Presentation_Homelab_Engineering_DE.pdf)
 
 ---
 
@@ -168,8 +168,8 @@ Ich habe die **Robot Dreams Cyber Security Fundamentals**-Akademie mit **97 % (1
 
 | Nachweis | Vorschau |
 |---|---|
-| Robot Dreams — Cybersecurity Zertifikat (mit Auszeichnung) | [Zertifikat anzeigen](portfolio/certifications/Robot_Dreams_Cybersecurity_Zertifikat.jpg) |
-| TryHackMe — Pre Security Zertifikat | [Zertifikat anzeigen](portfolio/certifications/TryHackMe_Pre_Security_Zertifikat.jpg) |
+| Robot Dreams — Cybersecurity Zertifikat (mit Auszeichnung) | [Zertifikat anzeigen](https://github.com/vasviktor-cyber/cybersecurity-portfolio/blob/main/portfolio/certifications/Robot_Dreams_Cybersecurity_Zertifikat.jpg) |
+| TryHackMe — Pre Security Zertifikat | [Zertifikat anzeigen](https://github.com/vasviktor-cyber/cybersecurity-portfolio/blob/main/portfolio/certifications/TryHackMe_Pre_Security_Zertifikat.jpg) |
 
 ---
 
@@ -191,30 +191,29 @@ Ich habe die **Robot Dreams Cyber Security Fundamentals**-Akademie mit **97 % (1
 
 ## 📁 Repository-Struktur
 
-```
 📦 cybersecurity-portfolio
 ├── 📄 README.md
 └── 📂 portfolio/
-    ├── 📂 projects/
-    │   ├── Report_Rhadamanthys_Infostealer_DE.pdf
-    │   ├── Project_Colle_Incident_Response_Plan_DE.pdf
-    │   ├── Project_eBay_Threat_Modeling_DE.pdf
-    │   ├── Project_Blue_Team_Homelab_Build_DE.pdf
-    │   └── Report_Homelab_Architecture_DE.pdf
-    ├── 📂 presentations/
-    │   ├── Portfolio_SOC_Analyst_Viktor_Vas_DE.pdf
-    │   ├── Presentation_Rhadamanthys_Analysis_DE.pdf
-    │   ├── Presentation_Colle_Security_Blueprint_DE.pdf
-    │   ├── Presentation_ASUS_Router_SPI_Recovery_DE.pdf
-    │   └── Presentation_Homelab_Engineering_DE.pdf
-    ├── 📂 infographics/
-    │   └── Infographic_Defense_in_Depth_Architecture_DE.png
-    ├── 📂 screenshots/
-    │   └── Ebay_Threat_Model_Tool_Screenshot.jpg
-    └── 📂 certifications/
-        ├── Robot_Dreams_Cybersecurity_Zertifikat.jpg
-        └── TryHackMe_Pre_Security_Zertifikat.jpg
-```
+├── 📂 projects/
+│   ├── Report_Rhadamanthys_Infostealer_DE.pdf
+│   ├── Project_Colle_Incident_Response_Plan_DE.pdf
+│   ├── Project_eBay_Threat_Modeling_DE.pdf
+│   ├── Project_Blue_Team_Homelab_Build_DE.pdf
+│   └── Report_Homelab_Architecture_DE.pdf
+├── 📂 presentations/
+│   ├── Portfolio_SOC_Analyst_Viktor_Vas_DE.pdf
+│   ├── Presentation_Rhadamanthys_Analysis_DE.pdf
+│   ├── Presentation_Colle_Security_Blueprint_DE.pdf
+│   ├── Presentation_ASUS_Router_SPI_Recovery_DE.pdf
+│   └── Presentation_Homelab_Engineering_DE.pdf
+├── 📂 infographics/
+│   └── Infographic_Defense_in_Depth_Architecture_DE.png
+├── 📂 screenshots/
+│   └── Ebay_Threat_Model_Tool_Screenshot.jpg
+└── 📂 certifications/
+├── Robot_Dreams_Cybersecurity_Zertifikat.jpg
+└── TryHackMe_Pre_Security_Zertifikat.jpg
+
 
 ---
 
