@@ -1,3 +1,5 @@
+<img src="https://github.com/vasviktor-cyber/cybersecurity-portfolio/blob/main/Viktor%20Vas%20Junior%20SOC%20Analyst%20%20Blue%20Team%20Spezialist%20Systematische%20VerteidigungPr%C3%A4zises%20Engineering..png?raw=true" width="100%" alt="Viktor Vas Cybersecurity Banner">
+
 <div align="center">
 
 # Viktor Vas | Junior SOC Analyst & Blue Team Spezialist
