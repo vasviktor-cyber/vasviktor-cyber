@@ -1,5 +1,3 @@
-<img src="https://github.com/vasviktor-cyber/cybersecurity-portfolio/blob/main/Viktor%20Vas%20Junior%20SOC%20Analyst%20%20Blue%20Team%20Spezialist%20Systematische%20VerteidigungPr%C3%A4zises%20Engineering..png?raw=true" width="100%" alt="Viktor Vas Cybersecurity Banner">
-
 <div align="center">
 
 # Viktor Vas | Junior SOC Analyst & Blue Team Spezialist
@@ -8,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-viktor--vas--cyber-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/viktor-vas-cyber)
 [![GitHub](https://img.shields.io/badge/GitHub-vasviktor--cyber-181717?style=flat&logo=github&logoColor=white)](https://github.com/vasviktor-cyber)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Pre_Security-88cc14?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Cyborg3333_%7C_CS_101-88cc14?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Cyborg3333)
 [![Standort](https://img.shields.io/badge/Standort-Bad_Salzuflen,_Deutschland-blue?style=flat&logo=googlemaps&logoColor=white)](#)
 
 </div>
@@ -27,7 +25,7 @@ Ich habe die **Robot Dreams Cyber Security Fundamentals**-Akademie mit **97 % (1
 
 **Ziel:** Junior SOC Analyst Position im DACH-Raum (Remote-Option), mit langfristigem Ausbau durch CompTIA Security+ und ISO 27001 Zertifizierungen.
 
-📄 **Gesamtes Portfolio als Präsentation:** [SOC Analyst Portfolio (PDF)](https://github.com/vasviktor-cyber/cybersecurity-portfolio/blob/main/portfolio/presentations/Portfolio_SOC_Analyst_Viktor_Vas_DE.pdf)
+📄 **Gesamtes Portfolio als Präsentation:** [SOC Analyst Portfolio (PDF)](portfolio/presentations/Portfolio_SOC_Analyst_Viktor_Vas_DE.pdf)
 
 ---
 
@@ -40,6 +38,7 @@ Ich habe die **Robot Dreams Cyber Security Fundamentals**-Akademie mit **97 % (1
 ![Log-Analyse](https://img.shields.io/badge/Log--Analyse-Triage-4CAF50?style=flat-square)
 ![OWASP](https://img.shields.io/badge/OWASP-Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
 ![Defense in Depth](https://img.shields.io/badge/Defense_in_Depth-Strategie-1565C0?style=flat-square)
+![Wazuh SIEM](https://img.shields.io/badge/Wazuh-SIEM_%26_XDR-00a9e0?style=flat) ![Homelab](https://img.shields.io/badge/Homelab-Pi--hole_%7C_Nginx_%7C_Docker-2496ed?style=flat)
 
 ### OSINT & Threat Intelligence
 ![Maltego](https://img.shields.io/badge/Maltego-OSINT-2596BE?style=flat-square)
@@ -51,7 +50,7 @@ Ich habe die **Robot Dreams Cyber Security Fundamentals**-Akademie mit **97 % (1
 ![Nmap](https://img.shields.io/badge/Nmap-Port--Scanning-4682B4?style=flat-square)
 ![Wireshark](https://img.shields.io/badge/Wireshark-Verkehrsanalyse-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-Sicherheit-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Grundlagen-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nmap](https://img.shields.io/badge/Nmap-Port--Scanning-4682B4?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-Verkehrsanalyse-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-Sicherheit-0078D6?style=flat-square&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-Systemadministration_%26_Hardening-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ### Hardware & Low-Level Sicherheit
 ![SPI Flash](https://img.shields.io/badge/SPI_Flash-CH341A-FF6F00?style=flat-square)
@@ -65,7 +64,7 @@ Ich habe die **Robot Dreams Cyber Security Fundamentals**-Akademie mit **97 % (1
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vasviktor-cyber/cybersecurity-portfolio/main/portfolio/infographics/Infographic_Defense_in_Depth_Architecture_DE.png" alt="Defense-in-Depth Architektur Infografik" width="600"/>
+<img src="portfolio/infographics/Infographic_Defense_in_Depth_Architecture_DE.png" alt="Defense-in-Depth Architektur Infografik" width="600"/>
 
 *Vollständige Visualisierung meiner Sicherheitsarchitektur: STRIDE-Analyse, Trust Boundaries, Netzwerk-Mitigationsmatrix und IR-Lebenszyklus.*
 
@@ -87,7 +86,7 @@ Ich habe die **Robot Dreams Cyber Security Fundamentals**-Akademie mit **97 % (1
   - Dokumentierte Auswirkungen: Session Hijacking, Kontoübernahme (Ubisoft, Microsoft, Instagram), Krypto-Mining
 - **Ergebnis:** Entwicklung und Umsetzung eines **„Scorched Earth"-Remediationsprotokolls** — Netzwerkisolation, Clean Install, Router-Factory-Reset, Identity Lockdown aller Konten und Hardware-Austausch (Telefon + SIM-Karte).
 
-📄 **Dokumentation:** [Incident Report (PDF)](https://github.com/vasviktor-cyber/cybersecurity-portfolio/blob/main/portfolio/projects/Report_Rhadamanthys_Infostealer_DE.pdf) · [Analyse-Präsentation (PDF)](https://github.com/vasviktor-cyber/cybersecurity-portfolio/blob/main/portfolio/presentations/Presentation_Rhadamanthys_Analysis_DE.pdf)
+📄 **Dokumentation:** [Incident Report (PDF)](portfolio/projects/Report_Rhadamanthys_Infostealer_DE.pdf) · [Analyse-Präsentation (PDF)](portfolio/presentations/Presentation_Rhadamanthys_Analysis_DE.pdf)
 
 ---
 
@@ -104,7 +103,7 @@ Ich habe die **Robot Dreams Cyber Security Fundamentals**-Akademie mit **97 % (1
   - Konzeption eines **verpflichtenden jährlichen Cybersicherheits-E-Learnings** mit 30-Fragen-Test (80 %-Bestehensgrenze) und zertifikatsgebundenem Systemzugang
 - **Ergebnis:** Vollständiges Phishing-Angriffsszenario mit schrittweiser Eindämmung, Kommunikationsplan und Integration in das Schulungsprogramm.
 
-📄 **Dokumentation:** [IR-Plan (PDF)](https://github.com/vasviktor-cyber/cybersecurity-portfolio/blob/main/portfolio/projects/Project_Colle_Incident_Response_Plan_DE.pdf) · [Security Blueprint Präsentation (PDF)](https://github.com/vasviktor-cyber/cybersecurity-portfolio/blob/main/portfolio/presentations/Presentation_Colle_Security_Blueprint_DE.pdf)
+📄 **Dokumentation:** [IR-Plan (PDF)](portfolio/projects/Project_Colle_Incident_Response_Plan_DE.pdf) · [Security Blueprint Präsentation (PDF)](portfolio/presentations/Presentation_Colle_Security_Blueprint_DE.pdf)
 
 ---
 
@@ -120,7 +119,7 @@ Ich habe die **Robot Dreams Cyber Security Fundamentals**-Akademie mit **97 % (1
   - Erstellung einer **Mitigationsmatrix** pro Asset-Typ (WAF, Rate Limiting, 2FA, Least Privilege, Eingabevalidierung)
 - **Ergebnis:** Umfassende Defense-in-Depth-Strategie. Akademische Validierung: **30/30 Punkte**.
 
-📄 **Dokumentation:** [Threat Model Projekt (PDF)](https://github.com/vasviktor-cyber/cybersecurity-portfolio/blob/main/portfolio/projects/Project_eBay_Threat_Modeling_DE.pdf) · [Microsoft Threat Modeling Tool — Screenshot](https://github.com/vasviktor-cyber/cybersecurity-portfolio/blob/main/portfolio/screenshots/Ebay_Threat_Model_Tool_Screenshot.jpg)
+📄 **Dokumentation:** [Threat Model Projekt (PDF)](portfolio/projects/Project_eBay_Threat_Modeling_DE.pdf) · [Microsoft Threat Modeling Tool — Screenshot](portfolio/screenshots/Ebay_Threat_Model_Tool_Screenshot.jpg)
 
 ---
 
@@ -135,7 +134,7 @@ Ich habe die **Robot Dreams Cyber Security Fundamentals**-Akademie mit **97 % (1
   - Durchführung eines **TFTP-Firmware-Flash** über die Bootloader-Konsole zur Wiederherstellung der Original-Firmware
 - **Ergebnis:** Vollständig dokumentierte Schritt-für-Schritt-Anleitung. Router erfolgreich wiederhergestellt. Demonstriert Hardware-nahe Troubleshooting-Fähigkeiten, direkt anwendbar auf IoT/OT-Sicherheit und forensische Analyse.
 
-📄 **Dokumentation:** [Hardware-Recovery Präsentation (PDF)](https://github.com/vasviktor-cyber/cybersecurity-portfolio/blob/main/portfolio/presentations/Presentation_ASUS_Router_SPI_Recovery_DE.pdf)
+📄 **Dokumentation:** [Hardware-Recovery Präsentation (PDF)](portfolio/presentations/Presentation_ASUS_Router_SPI_Recovery_DE.pdf)
 
 ---
 
@@ -152,37 +151,37 @@ Ich habe die **Robot Dreams Cyber Security Fundamentals**-Akademie mit **97 % (1
   - Diagnose und Behebung von **MSI Center vs. BIOS Prioritätskonflikten** zugunsten einer stabilen Hardware-Steuerung
 - **Ergebnis:** Perfekt funktionierende, thermisch effiziente und kabeloptimierte Workstation, bereit für Netzwerkverkehrsanalyse, VM-Ausführung und stabilen Dauerbetrieb.
 
-📄 **Dokumentation:** [Homelab Projekt (PDF)](https://github.com/vasviktor-cyber/cybersecurity-portfolio/blob/main/portfolio/projects/Project_Blue_Team_Homelab_Build_DE.pdf) · [Architektur-Bericht (PDF)](https://github.com/vasviktor-cyber/cybersecurity-portfolio/blob/main/portfolio/projects/Report_Homelab_Architecture_DE.pdf) · [Engineering Präsentation (PDF)](https://github.com/vasviktor-cyber/cybersecurity-portfolio/blob/main/portfolio/presentations/Presentation_Homelab_Engineering_DE.pdf)
+📄 **Dokumentation:** [Homelab Projekt (PDF)](portfolio/projects/Project_Blue_Team_Homelab_Build_DE.pdf) · [Architektur-Bericht (PDF)](portfolio/projects/Report_Homelab_Architecture_DE.pdf) · [Engineering Präsentation (PDF)](portfolio/presentations/Presentation_Homelab_Engineering_DE.pdf)
 
 ---
 
 ## 🎓 Ausbildung & Zertifizierungen
 
 | Zertifizierung | Anbieter | Zeitraum | Details |
-|---|---|---|---|
-| 🏆 **Cyber Security Fundamentals** | Robot Dreams | Jan – Mär 2026 | 97 % (193/200 Punkte) · Top 4 von 19 · 14 Wochen intensiv |
+| :--- | :--- | :--- | :--- |
+| 🛡️ **Cyber Security Consultant (Weiterbildung)** | Cybersteps | Nov 2026 – *laufend* | 12 Monate Vollzeit/Fernstudium · Blue Team, SOC & Pentesting |
+| 🐧 **Linux-Systemadministrator** | Robot Dreams | Aug 2026 | **Certification with Honors** · 27 Std. (18 Lektionen) · Linux Server, Bash & Hardening |
+| 🛡️ **Cyber Security 101 Learning Path** | TryHackMe | Juli 2026 | 45+ Stunden · Blue Team, SOC Grundlagen, Netzwerk- & Systemsicherheit |
+| 🏆 **Cyber Security Fundamentals** | Robot Dreams | Jan – Mär 2026 | **97 % (193/200 Punkte)** · Top 4 von 19 · 14 Wochen intensiv |
 | ✅ **Pre Security Learning Path** | TryHackMe | März 2026 | 19 Stunden · Netzwerke, Linux, Web, Sicherheitsgrundlagen |
-| 🔧 **Elektromechaniker für Maschinen** | Technische Schule, Subotica (Serbien) | 2001 – 2004 | Elektronik, Mechanik, Schaltpläne, technische Wartung |
+| 🔧 **Elektromechaniker für Maschinen** | Technische Schule, Subotica | 2001 – 2004 | Elektronik, Mechanik, Schaltpläne, technische Wartung |
 
-**Aktuell angestrebt:** CompTIA Security+ · ISO 27001
+**Aktuell im Fokus:** Cybersteps Cyber Security Consultant · CompTIA Security+ · ISO 27001 · Wazuh SIEM Lab
 
-### Nachweise
-
-| Nachweis | Vorschau |
-|---|---|
-| Robot Dreams — Cybersecurity Zertifikat (mit Auszeichnung) | [Zertifikat anzeigen](https://github.com/vasviktor-cyber/cybersecurity-portfolio/blob/main/portfolio/certifications/Robot_Dreams_Cybersecurity_Zertifikat.jpg) |
-| TryHackMe — Pre Security Zertifikat | [Zertifikat anzeigen](https://github.com/vasviktor-cyber/cybersecurity-portfolio/blob/main/portfolio/certifications/TryHackMe_Pre_Security_Zertifikat.jpg) |
+### 📜 Nachweise (Zertifikate ansehen)
+* [🏆 Robot Dreams – Cyber Security Fundamentals Zertifikat](./portfolio/certifications/Robot_Dreams_Cybersecurity_Zertifikat.jpg)
+* [🐧 Robot Dreams – Linux-Systemadministrator Zertifikat (With Honors)](./portfolio/certifications/Robot_Dreams_Linux_Systemadministrator_Zertifikat.jpg)
+* [🛡️ TryHackMe – Cyber Security 101 Zertifikat](./portfolio/certifications/TryHackMe_Cyber_Security_101_Zertifikat.jpg)
+* [✅ TryHackMe – Pre Security Zertifikat](./portfolio/certifications/TryHackMe_Pre_Security_Zertifikat.jpg)
 
 ---
 
 ## 🌍 Sprachen
 
-| Sprache | Niveau |
-|---|---|
-| 🇭🇺 Ungarisch | Muttersprache |
-| 🇩🇪 Deutsch | Gut in Wort und Schrift |
-| 🇷🇸 Serbisch | Fließend |
-
+* 🇭🇺 **Ungarisch:** Muttersprache
+* 🇩🇪 **Deutsch:** Fließend in Wort und Schrift (über 10 Jahre Berufserfahrung in Deutschland)
+* 🇷🇸 **Serbisch:** Konversationssicher / Gute Kenntnisse
+* 🇬🇧 **Englisch:** Gutes Fach- und Leseverständnis (technische Dokumentation, Log-Analyse, TryHackMe Labs) · *im aktiven Ausbau*
 ---
 
 ## 💼 Beruflicher Hintergrund
@@ -193,29 +192,32 @@ Ich habe die **Robot Dreams Cyber Security Fundamentals**-Akademie mit **97 % (1
 
 ## 📁 Repository-Struktur
 
+```text
 📦 cybersecurity-portfolio
 ├── 📄 README.md
 └── 📂 portfolio/
-├── 📂 projects/
-│   ├── Report_Rhadamanthys_Infostealer_DE.pdf
-│   ├── Project_Colle_Incident_Response_Plan_DE.pdf
-│   ├── Project_eBay_Threat_Modeling_DE.pdf
-│   ├── Project_Blue_Team_Homelab_Build_DE.pdf
-│   └── Report_Homelab_Architecture_DE.pdf
-├── 📂 presentations/
-│   ├── Portfolio_SOC_Analyst_Viktor_Vas_DE.pdf
-│   ├── Presentation_Rhadamanthys_Analysis_DE.pdf
-│   ├── Presentation_Colle_Security_Blueprint_DE.pdf
-│   ├── Presentation_ASUS_Router_SPI_Recovery_DE.pdf
-│   └── Presentation_Homelab_Engineering_DE.pdf
-├── 📂 infographics/
-│   └── Infographic_Defense_in_Depth_Architecture_DE.png
-├── 📂 screenshots/
-│   └── Ebay_Threat_Model_Tool_Screenshot.jpg
-└── 📂 certifications/
-├── Robot_Dreams_Cybersecurity_Zertifikat.jpg
-└── TryHackMe_Pre_Security_Zertifikat.jpg
-
+    ├── 📂 projects/
+    │   ├── Report_Rhadamanthys_Infostealer_DE.pdf
+    │   ├── Project_Colle_Incident_Response_Plan_DE.pdf
+    │   ├── Project_eBay_Threat_Modeling_DE.pdf
+    │   ├── Project_Blue_Team_Homelab_Build_DE.pdf
+    │   └── Report_Homelab_Architecture_DE.pdf
+    ├── 📂 presentations/
+    │   ├── Portfolio_SOC_Analyst_Viktor_Vas_DE.pdf
+    │   ├── Presentation_Rhadamanthys_Analysis_DE.pdf
+    │   ├── Presentation_Colle_Security_Blueprint_DE.pdf
+    │   ├── Presentation_ASUS_Router_SPI_Recovery_DE.pdf
+    │   └── Presentation_Homelab_Engineering_DE.pdf
+    ├── 📂 infographics/
+    │   └── Infographic_Defense_in_Depth_Architecture_DE.png
+    ├── 📂 screenshots/
+    │   └── Ebay_Threat_Model_Tool_Screenshot.jpg
+    └── 📂 certifications/
+        ├── Robot_Dreams_Cybersecurity_Zertifikat.jpg
+        ├── Robot_Dreams_Linux_Systemadministrator_Zertifikat.jpg
+        ├── TryHackMe_Cyber_Security_101_Zertifikat.jpg
+        └── TryHackMe_Pre_Security_Zertifikat.jpg
+```
 
 ---
 
@@ -223,6 +225,9 @@ Ich habe die **Robot Dreams Cyber Security Fundamentals**-Akademie mit **97 % (1
 
 *Mit Disziplin gebaut. Durch Präzision angetrieben. Bereit zur Verteidigung.*
 
-[![E-Mail](https://img.shields.io/badge/Kontakt-hucicok%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hucicok@gmail.com)
+[![Kontakt](https://img.shields.io/badge/KONTAKT-HUCICOK%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hucicok@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-VIKTOR--VAS--CYBER-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-vas-cyber)
+[![TryHackMe](https://img.shields.io/badge/TRYHACKME-CYBORG3333-212C42?style=for-the-badge&logo=tryhackme&logoColor=88cc14)](https://tryhackme.com/p/Cyborg3333)
+[![Discord](https://img.shields.io/badge/DISCORD-v__vas86-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
 
 </div>
